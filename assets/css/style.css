@@ -185,7 +185,7 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, helvetica neue, helvetica, Ubuntu, roboto, noto, segoe ui, arial, sans-serif;
   --border: 1px solid black;
   --padding: calc(1rem * 1.4);
-  --border-thick: 1px;
+  --border-thick: 0px;
   padding: 2rem;
   margin: 0;
   font-size: var(--size-400);
