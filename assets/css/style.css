@@ -212,8 +212,6 @@ img {
 }
 
 .wrapper {
-  border-width: var(--border-thick);
-  border: var(--border-thick) solid;
   padding: var(--padding);
   margin: 0 auto;
 }
@@ -510,7 +508,7 @@ select {
 /* Footer */
 
 [role='contentinfo'] .wrapper {
-  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  border-top: 1px solid #000;
   display: flex;
   justify-content: space-between;
   align-items: center;
