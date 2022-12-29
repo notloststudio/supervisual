@@ -93,7 +93,7 @@ h3 {
 img {
   max-width: 90ch;
 }
-
+'
 figcaption {
   font-size: var(--size-400);
   margin-top: 1rem;
@@ -207,9 +207,7 @@ img {
 }
 
 .wrapper {
-  border-width: var(--border-thick);
-  border: var(--border-thick) solid;
-  padding: var(--padding);
+
 }
 
 /* Box
